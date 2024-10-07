@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm **Konstantilieris**, a passionate Full-Stack Developer specializing in building web and mobile applications using modern technologies such as **React**, **Next.js**, **Express**, **Node.js**, **React Native**, and **MongoDB**.
+I'm **Konstantilieris**, a passionate Full-Stack Developer based in **Athens, Greece**, specializing in building web and mobile applications using modern technologies such as **React**, **Next.js**, **Express**, **Node.js**, **React Native**, and **MongoDB**.
 
 ---
 
