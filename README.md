@@ -27,7 +27,7 @@ I'm **Konstantilieris**, a passionate Full-Stack Developer specializing in build
 
 ### 📫 How to Reach Me:
 
-- Email: [Your Email](mailto:aggeloskonstantilieris@gmail.com)
+- Email: [Aggeloskonstantilieris@gmail.com](mailto:aggeloskonstantilieris@gmail.com)
 
 ---
 
