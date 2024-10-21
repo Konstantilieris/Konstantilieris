@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm **Konstantilieris**, a passionate Full-Stack Developer based in **Athens, Greece**, specializing in building web and mobile applications using modern technologies such as **React**, **Next.js**, **Express**, **Node.js**, **React Native**, and **MongoDB**.
+I'm **Konstantilieris**, a passionate Full-Stack Developer based in **Athens, Greece**, specializing in building web and mobile applications using modern technologies such as **React**, **Next.js**, **Typescript**, **Express**, **Node.js**, **React Native**, and **MongoDB**.
 
 ---
 
@@ -10,7 +10,7 @@ I'm **Konstantilieris**, a passionate Full-Stack Developer based in **Athens, Gr
 - 🔭 I’m currently working on various full-stack projects using the MERN stack (MongoDB, Express, React, Node).
 - 🌱 I’m continuously learning and enhancing my skills in **Next.js** and **React Native** for seamless mobile and web development.
 - 👯 I’m looking to collaborate on exciting projects, especially in **React** and **Next.js** ecosystems.
-- 💬 Ask me about anything related to **JavaScript**, **React**, **Node.js**, or **MongoDB**.
+- 💬 Ask me about anything related to **JavaScript**,**Typescript**,**NextJs**, **React**, **Node.js**, or **MongoDB**.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy contributing to open-source projects and exploring the latest trends in JavaScript frameworks.
 
